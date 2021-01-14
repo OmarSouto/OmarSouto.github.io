@@ -1,12 +1,17 @@
 h1{
-    background-color: cornflowerblue;
+    background-color: rgb(152, 180, 231);
 }
 
 p{
-    background-color: chartreuse;
+    background-color: rgb(191, 224, 100);
 }
 
 #cabecalho{
     background-color: darkseagreen;
-    padding: 100px;
+    padding: 50px;
+}
+
+#logo {
+    width: 202px;
+    height: 202px;
 }
